@@ -1,6 +1,6 @@
 ### Salut H ! Swipe up pour écouter mon nouveau script <img src="https://cdn.discordapp.com/emojis/912656387270672414.png?size=4096" width="25px">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/UserZill?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0xH69)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hashxxx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0xH69)
 
 ## Moi ? 💻
 - 🌙 I'm not a modo discord
