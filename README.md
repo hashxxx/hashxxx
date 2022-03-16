@@ -3,8 +3,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/0xH69?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/0xH69)
 
 ## Moi ? 💻
-- 🌙 I'm not a modo discord
-- 💻 Sah je fais un peu d'info quand j'ai le temps
 - 🧠 J'suis trop fast du cerveau malgrès le bedo
 
 ## Languages 🌞
